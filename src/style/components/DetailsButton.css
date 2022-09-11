@@ -1,0 +1,13 @@
+.details-btn {
+    padding: 15px 20px 15px 20px ;
+    background-color: #4990fb;
+    color: white;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 2px 2px 5px #cecece;
+    cursor: pointer;
+}
+
+.details-btn:hover {
+    background-color: #00a48e;
+}
